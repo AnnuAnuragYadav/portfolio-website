@@ -125,6 +125,7 @@ h2 {
   transform: translateY(20px);
 }
 
+/* add an animation */
 @keyframes skill-rotate {
   0%, 15% {
     opacity: 0;
